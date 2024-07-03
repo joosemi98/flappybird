@@ -15,15 +15,7 @@ This is a simple Flappy Bird clone created using Python and the Tkinter library.
 - Python 3.x
 - Tkinter library (usually comes pre-installed with Python)
 
-## How to Run
 
-1. Clone this repository:
-   
-
-2. Run the game:
-    ```bash
-    python flappy.py
-    ```
 
 ## Controls
 
