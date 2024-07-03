@@ -18,14 +18,11 @@ This is a simple Flappy Bird clone created using Python and the Tkinter library.
 ## How to Run
 
 1. Clone this repository:
-    ```bash
-    git clone https://github.com/yourusername/flappy-bird-clone.git
-    cd flappy-bird-clone
-    ```
+   
 
 2. Run the game:
     ```bash
-    python flappy_bird.py
+    python flappy.py
     ```
 
 ## Controls
